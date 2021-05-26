@@ -4,9 +4,9 @@
 
 这个是 vuepress 的插件，作为儿童节彩蛋，用于HUI官网。
 
-idea 来源于 <https://codepen.io/pyrografix/pen/qrqpJN>
+idea 来源于 <https://codepen.io/pyrografix/pen/qrqpJN> 🏹
 
-> 儿童节快乐 🤖
+> 儿童节快乐 🤖👦
 
 
 ## 安装
