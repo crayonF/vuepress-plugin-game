@@ -47,7 +47,7 @@ export default {
         dragRotate: true,
         resize: "fullscreen",
         onResize: function (width, height) {
-          this.zoom = Math.floor(Math.min(width, height) / 250);
+          this.zoom = Math.floor(Math.min(width, height) / 350);
         },
       });
       // ----- model ----- //
@@ -326,7 +326,7 @@ export default {
 canvas {
   position: fixed;
   top: -30%;
-  right: -40%;
+  right: -43%;
   display: block;
   width: 100%;
   height: 100%;
