@@ -8,8 +8,8 @@ module.exports = {
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
-    ['script', { src: '/js/MorphSVGPlugin.min.js'}],
-    ['script', { src: '/js/TweenMax.min.js'}],
+    ['script', { src: 'https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js'}],
+    ['script', { src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/MorphSVGPlugin.min.js'}],
     ['script', { src: 'https://unpkg.com/zdog@1/dist/zdog.dist.min.js'}]
   ],
   base: '/vuepress-plugin-game/', // 这是部署到github相关的配置
