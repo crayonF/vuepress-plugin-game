@@ -103,7 +103,7 @@ import xingzhiKabi from './kabi'
       }
     },
     mounted() {
-      this.svg = document.querySelector("svg")
+      this.svg = document.querySelector("#game")
       this.cursor = this.svg.createSVGPoint()
       this.arrows = document.querySelector(".arrows")
     },
